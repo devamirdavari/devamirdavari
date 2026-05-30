@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 Hey there! I'm Mohammad
+## 👋 Hey there! I'm Amir
 
 > 🚀 **6+ years** of full-stack JavaScript engineering  
 > 🤖 **AI Architect** building agentic pipelines & RAG systems  
