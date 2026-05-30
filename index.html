@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad | Full-Stack JS + AI Architect</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: linear-gradient(135deg, #0a0f1e 0%, #0a1a2f 100%);
+            font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            color: #eef2ff;
+            line-height: 1.5;
+            padding: 2rem 1rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        /* header */
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        .badge {
+            display: inline-block;
+            background: #1e2a47;
+            backdrop-filter: blur(8px);
+            padding: 0.3rem 0.9rem;
+            border-radius: 40px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            border: 1px solid #2d3a5e;
+            margin-bottom: 1rem;
+        }
+        h1 {
+            font-size: 2.8rem;
+            background: linear-gradient(120deg, #c084fc, #60a5fa);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        .sub {
+            font-size: 1.2rem;
+            color: #9ca3af;
+        }
+        /* grid */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
+            margin: 2.5rem 0;
+        }
+        .card {
+            background: rgba(15, 25, 45, 0.65);
+            backdrop-filter: blur(4px);
+            border-radius: 32px;
+            padding: 1.5rem;
+            border: 1px solid #2d3a60;
+            transition: 0.2s;
+        }
+        .card:hover {
+            border-color: #4f7bc0;
+            background: rgba(20, 32, 55, 0.8);
+        }
+        .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .tag {
+            background: #0f172a;
+            padding: 0.2rem 0.7rem;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: #94a3b8;
+            border: 1px solid #2d3a5e;
+        }
+        .skill-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+        .skill {
+            background: #111827;
+            padding: 0.25rem 0.9rem;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: #cbd5e6;
+        }
+        .project-list {
+            list-style: none;
+        }
+        .project-list li {
+            margin-bottom: 0.8rem;
+            border-left: 2px solid #3b82f6;
+            padding-left: 0.8rem;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #1e2a4a;
+        }
+        .btn {
+            display: inline-block;
+            background: #2563eb;
+            padding: 0.6rem 1.4rem;
+            border-radius: 40px;
+            text-decoration: none;
+            color: white;
+            font-weight: 500;
+            margin: 0 0.3rem;
+        }
+        .btn-outline {
+            background: transparent;
+            border: 1px solid #3b82f6;
+            color: #b9d0ff;
+        }
+        @media (max-width: 680px) {
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="badge">⚡ Senior Full‑Stack JS · AI Architect · Linux Security · DevOps</div>
+        <h1>Mohammad · [Your Last]</h1>
+        <div class="sub">6+ years · Scalable products · Agentic AI · Startup founder</div>
+    </div>
+
+    <div class="grid">
+        <!-- Main stack -->
+        <div class="card">
+            <h3>🧠 Core Stack</h3>
+            <div class="skill-cloud">
+                <span class="skill">React/Next.js</span>
+                <span class="skill">TypeScript</span>
+                <span class="skill">Nest.js</span>
+                <span class="skill">Express</span>
+                <span class="skill">PostgreSQL</span>
+                <span class="skill">MySQL</span>
+                <span class="skill">Vector DBs</span>
+                <span class="skill">Docker</span>
+                <span class="skill">Nginx</span>
+                <span class="skill">GitHub Actions</span>
+            </div>
+        </div>
+
+        <!-- Security + Linux + DevOps (درخواست شما) -->
+        <div class="card">
+            <h3>🔐 Linux · Security · DevOps</h3>
+            <div class="skill-cloud">
+                <span class="skill">Ubuntu Hardening</span>
+                <span class="skill">UFW / iptables</span>
+                <span class="skill">fail2ban</span>
+                <span class="skill">SSH key mgmt</span>
+                <span class="skill">SSL/TLS (Let's Encrypt)</span>
+                <span class="skill">OWASP Top 10</span>
+                <span class="skill">Helmet.js</span>
+                <span class="skill">Docker Compose</span>
+                <span class="skill">CI/CD pipelines</span>
+                <span class="skill">Backup automation</span>
+            </div>
+        </div>
+
+        <!-- AI + agent architecture -->
+        <div class="card">
+            <h3>🤖 AI Architect</h3>
+            <div class="skill-cloud">
+                <span class="skill">LangChain</span>
+                <span class="skill">OpenAI API</span>
+                <span class="skill">RAG pipelines</span>
+                <span class="skill">Agentic workflows</span>
+                <span class="skill">LLM integration</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- محصولات بین‌المللی و داخلی -->
+    <div class="grid">
+        <div class="card">
+            <h3>🌍 Global products</h3>
+            <ul class="project-list">
+                <li>AZPI Real Estate · UAE</li>
+                <li>AZPO Health · Dubai</li>
+                <li>AxA Property · Europe</li>
+                <li>SelectumProperty · Turkey</li>
+                <li>Trust United · Global</li>
+                <li>Real Reach · Turkey</li>
+                <li>TebPardaz Shargh · Iran</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h3>⚡ Lexa Plus Platforms</h3>
+            <ul class="project-list">
+                <li><strong>MegaurionX</strong> — blockchain investment</li>
+                <li><strong>AUWRA</strong> — e‑commerce ecosystem</li>
+                <li><strong>Nahid</strong> — cultural & literary app</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h3>🚀 Current startups (Founder/CTO)</h3>
+            <ul class="project-list">
+                <li>Startup A — AI agents for business</li>
+                <li>Startup B — scalable DevSecOps platform</li>
+            </ul>
+            <div class="tag" style="margin-top: 1rem; display: inline-block;">Open for partnerships & investment</div>
+        </div>
+    </div>
+
+    <!-- strengths & call to action -->
+    <div class="card" style="margin: 1.5rem 0;">
+        <h3>💪 Strengths</h3>
+        <div class="skill-cloud">
+            <span class="skill">Full‑Stack JS Engineering</span>
+            <span class="skill">AI & Agent Architecture</span>
+            <span class="skill">Scalable Product Development</span>
+            <span class="skill">API/Microservices</span>
+            <span class="skill">Blockchain platforms</span>
+            <span class="skill">Tech leadership & strategy</span>
+            <span class="skill">Linux Security Hardening</span>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p style="margin-bottom: 1rem;">📫 Open for collaborations · Senior roles · Investment · Advisory</p>
+        <a href="#" class="btn">GitHub</a>
+        <a href="#" class="btn btn-outline">LinkedIn</a>
+        <a href="#" class="btn btn-outline">Email</a>
+        <p style="margin-top: 2rem; font-size: 0.8rem; opacity: 0.7;">⭐ From scalable code to business impact — securely at scale</p>
+    </div>
+</div>
+</body>
+</html>
