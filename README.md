@@ -55,6 +55,16 @@ $ whoami
   <img src="https://img.shields.io/badge/VectorDB-pgvector%20%7C%20Pinecone-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow / ML" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorDB-pgvector%20%7C%20Pinecone-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
 ### DevOps & Security
 <p>
   <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" />
@@ -93,13 +103,37 @@ $ whoami
 
 ---
 
-## 🤖 AI & ML Capabilities
+## 🤖 AI Architect
 
-- 🧠 **RAG Systems** — vector search, embeddings, retrieval pipelines
-- ⚙️ **Agentic Pipelines** — LangChain, tool-use, multi-step agents
-- 🗄️ **Vector Databases** — pgvector, Pinecone, Weaviate
-- 🔗 **LLM Integration** — OpenAI, Anthropic, local models (Ollama)
-- 📊 **AI-powered APIs** — building production-ready AI backends
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    AI & LLM Expertise                       │
+├───────────────────────┬─────────────────────────────────────┤
+│  LLM Integration      │  OpenAI GPT-4, Anthropic Claude     │
+│                       │  Ollama (local models), Groq         │
+│                       │  Prompt engineering & fine-tuning   │
+├───────────────────────┼─────────────────────────────────────┤
+│  RAG Systems          │  Embedding pipelines                 │
+│                       │  Semantic + hybrid search            │
+│                       │  pgvector, Pinecone, Weaviate        │
+├───────────────────────┼─────────────────────────────────────┤
+│  Agentic Pipelines    │  LangChain / LangGraph               │
+│                       │  Tool-use & function calling         │
+│                       │  Multi-step autonomous agents        │
+├───────────────────────┼─────────────────────────────────────┤
+│  AI-Powered Products  │  Chatbots & AI assistants            │
+│                       │  Document intelligence (PDF/OCR)     │
+│                       │  AI-powered REST & GraphQL APIs      │
+└───────────────────────┴─────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-00C853?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Agent--Pipelines-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Vector--Search-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-Local--LLMs-FF6C37?style=for-the-badge&logo=llvm&logoColor=white" />
+</p>
 
 ---
 
