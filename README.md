@@ -58,7 +58,6 @@ $ whoami
 ### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow / ML" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -153,10 +152,9 @@ $ whoami
 ## 📡 Connect
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="devamirdavari@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/devamirdavari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/devamirdavari"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
